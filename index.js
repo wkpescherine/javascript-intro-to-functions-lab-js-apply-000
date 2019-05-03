@@ -7,5 +7,5 @@ function whisper(string){
 }
 
 function kogShout(string){
-  console.log(string.toUpperCase())
+  console.log(string).toUpperCase()
 }
