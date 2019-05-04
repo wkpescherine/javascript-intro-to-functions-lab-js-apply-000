@@ -18,13 +18,14 @@ function sayHiToGrandma(string){
   var lowercase = "I can't hear you!";
   lower.toLowerCase() === lowercase;
   return lowercase;
-  
+}
+
+function sayHiToGrandma(string){
   var uppercase = "YES INDEED!";
   string.toUpperCase() === uppercase;
-
+  return uppercase;
+}
   
   var mixedcase = "I love you, Grandma.";
   string.toLowerCase() === mixedcase;
-  
-  return string;
 }
