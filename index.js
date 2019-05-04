@@ -23,7 +23,8 @@ function sayHiToGrandma(string){
   
   lowercase.toLowerCase() === lowwercase
   
+  var mixedcase = "I love you,too."
   
-}
+  mixedcase.toLowerCase() === mixedcase
   
 }
