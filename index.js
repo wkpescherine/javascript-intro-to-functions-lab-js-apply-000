@@ -19,9 +19,3 @@ function sayHiToGrandma(string){
   string.toLowerCase() === lowercase;
   return lowercase;
 }
-
-function sayHiToGrandma(string){
-  var uppercase = "YES INDEED!";
-  string.toUpperCase() === uppercase;
-  return uppercase;
-}
